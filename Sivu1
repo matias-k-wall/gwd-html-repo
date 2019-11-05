@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Tietoturva reissussa</title>
+<link rel="stylesheet" type="text/css" href="Sivu1Style.css">
+</head>
+<body>
+
+<nav>
+ <ul>
+  <li><a href="Etusivu">Etusivu</a></li>
+  				<p> | </p>
+   <li><a href="Sivu1">Tietoturva reissussa</a></li>
+   				<p> | </p>
+    <li><a href="Sivu2">Firman verkossa ja tiloissa</a></li>
+    			<p> | </p>
+     <li><a href="Sivu3">Asiakkaan verkossa ja tiloissa</a></li>
+     			<p> | </p>
+      <li><a href="Sivu4">Firman pilven turvallisuus</a></li>
+      			<p> | </p>
+       <li><a href="Sivu5">Tietoturva-FAQ</a></li>
+        </ul> 
+</nav>
+
+</body>
+</html>

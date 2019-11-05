@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+ <link rel="stylesheet" type="text/css" href="EtusivuStyle.css">
+<title>Etusivu</title>
+</head>
+<body>
+<header>
+<h1>Tietoturvaopas</h1><br><br><br><br>
+<h2>Etusivu</h2>
+</header>
+
+<nav>
+ <ul>
+  <li><a href="Etusivu">Etusivu</a></li>
+  				<p> | </p>
+   <li><a href="Sivu1">Tietoturva reissussa</a></li>
+   				<p> | </p>
+    <li><a href="Sivu2">Firman verkossa ja tiloissa</a></li>
+    			<p> | </p>
+     <li><a href="Sivu3">Asiakkaan verkossa ja tiloissa</a></li>
+     			<p> | </p>
+      <li><a href="Sivu4">Firman pilven turvallisuus</a></li>
+      			<p> | </p>
+       <li><a href="Sivu5">Tietoturva-FAQ</a></li>
+        </ul> 
+</nav>
+
+<div id="EtusivunBody">
+ <h3>Tervetuloa yrityksenne tietoturvaoppaaseen!</h3>
+  <p>Yllä olevasta navigaatiopalkista löydätte linkit asiasisältösivuille.<br>
+	 Tietoturvaoppaanne on jaoteltu aihealueisiin, ja kaikki tarvittava info pitäisi löytyä tästä kevyestä ja pienestä oppaasta.  
+  </p> <br>
+  </div>
+  
+<div id="AiheLista"> 
+  <h4>Aihealueet</h4>  
+  <p>Oppaassa käydään läpi yrityksen toiminnalle kriittisiä aihealueita, muun muassa:</p>
+  <ul>
+	<li><b>Tietoturva reissussa</b>: miten huolehtia tietoturvauhkista ulkomailla ja matkalla</li>
+	<li><b>Firman verkossa</b>: Missään ei ole täysin turvassa - edes firman omissa tiloissa!</li>
+	<li><b>Asiakkaan verkossa</b>: Asiakas on aina oikeassa, mutta asiakkaan infosec-vastaava välttämättä ei ole</li>
+	<li><b>Firman pilven turvallisuus</b>: Varovasti, jos päätät työskennellä pilvessä</li>  
+  	<li><b>Tietoturva-FAQ</b>: Kaikki, mitä olet tai et ole ikinä halunnut tietää tietoturvasta</li>
+  </ul>
+</div>
+
+</body>
+</html>
