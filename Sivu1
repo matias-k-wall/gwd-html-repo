@@ -6,6 +6,7 @@
 <link rel="stylesheet" type="text/css" href="Sivu1Style.css">
 </head>
 <body>
+<h1>Tietoturva reissussa</h1>
 
 <nav>
  <ul>
@@ -22,8 +23,11 @@
        <li><a href="Sivu5">Tietoturva-FAQ</a></li>
         </ul> 
 </nav>
+
+<div id="space"></div>
 <article> Etätöitä tehdessä pitää kiinnittää erityistä huomiota tietoturvaan. 
-Etätyöntekijän pahin vihollinen on oma huolimattomuus ja siitä kostautuva tietoturvariskien kierre. Helppoja asioita pistää kuntoon on pitää tietokone hyvin päivitettynä ja katsoa, että virustentorjuntaohjelmat ja palomuurit ovat ajan tasalla. 
+Etätyöntekijän pahin vihollinen on oma huolimattomuus ja siitä kostautuva tietoturvariskien kierre.
+<br>Helppoja asioita pistää kuntoon on pitää tietokone hyvin päivitettynä ja katsoa, että virustentorjuntaohjelmat ja palomuurit ovat ajan tasalla. 
 
 </article>
 </body>
