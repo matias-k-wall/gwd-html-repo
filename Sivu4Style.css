@@ -13,7 +13,7 @@ text-transform: none; }
 nav {
     background-color: lightgreen;
     border-radius: 30px 30px 10px 10px;
-    position: fixed;
+    position: static;
     top: 100px;
     left: 0;
     right: 0;
@@ -25,7 +25,9 @@ nav * {
     display: inline;
 }
 
-#space {margin-top: 200px}
+#space {margin-top: 100px}
 
 a:link { text-decoration: none; color: black; } a:visited { text-decoration: none; }
 a:hover { text-decoration: underline; } a:active { text-decoration: underline; }
+
+#backUp { margin-left: 48vw;  }
