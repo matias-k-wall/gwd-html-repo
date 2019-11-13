@@ -32,6 +32,13 @@ nav {
 	border-radius: 50px 50px 50px 50px;
 	height: 240px;
 }
+#Tiivistelmä {
+	background: grey;
+	border-radius: 50px 50px 50px 50px;
+
+	
+	
+}
 
 nav * {
     display: inline;
