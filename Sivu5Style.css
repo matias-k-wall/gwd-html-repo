@@ -25,6 +25,8 @@ nav * {
     display: inline;
 }
 
+#backUp { margin-left: 48vw;  }
+
 #space {margin-top: 100px}
 
 a:link { text-decoration: none; color: black; } a:visited { text-decoration: none; }
