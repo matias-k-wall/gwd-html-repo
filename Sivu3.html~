@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title></title>
+<link rel="stylesheet" type="text/css" href="Sivu3Style.css">
+</head>
+<body>
+
+<h1>Asiakkaan verkossa ja tiloissa</h1>
+
+<nav>
+ <ul>
+  <li><a href="Etusivu.html">Etusivu</a></li>
+  				<p> | </p>
+   <li><a href="Sivu1.html">Tietoturva etätyössä</a></li>
+   				<p> | </p>
+    <li><a href="Sivu2.html">Firman verkossa ja tiloissa</a></li>
+    			<p> | </p>
+     <li><a href="Sivu3.html">Asiakkaan verkossa ja tiloissa</a></li>
+     			<p> | </p>
+      <li><a href="Sivu4.html">Firman pilven turvallisuus</a></li>
+      			<p> | </p>
+       <li><a href="Sivu5.html">Tietoturva-FAQ</a></li>
+        </ul> 
+</nav>
+
+<div id="space"></div>
+<div id="Asiateksti">
+<p>Lorem ipsum ja niin edes päin</p>
+</div>
+</body>
+</html>

@@ -1,0 +1,43 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+ <link rel="stylesheet" type="text/css" href="Sivu5Style.css">
+<title>Tietoturva-FAQ</title>
+</head>
+<body>
+<header>
+<h1>Tietoturva-FAQ</h1><br><br><br><br>
+</header>
+
+<nav>
+ <ul>
+  <li><a href="Etusivu.html">Etusivu</a></li>
+  				<p> | </p>
+   <li><a href="Sivu1.html">Tietoturva etätyössä</a></li>
+   				<p> | </p>
+    <li><a href="Sivu2.html">Firman verkossa ja tiloissa</a></li>
+    			<p> | </p>
+     <li><a href="Sivu3.html">Asiakkaan verkossa ja tiloissa</a></li>
+     			<p> | </p>
+      <li><a href="Sivu4.html">Firman pilven turvallisuus</a></li>
+      			<p> | </p>
+       <li><a href="Sivu5.html">Tietoturva-FAQ</a></li>
+        </ul> 
+</nav>
+
+<div id="space"></div>
+
+<div id="UKKBody">
+<h3>Usein kysyttyjä kysymyksiä tietoturvasta</h3>
+
+<p>Tällä viimeisellä sivulla annamme vielä valmiiksi vastauksia joihinkin mahdollisesti esille tulevin kysymyksiin.</p>
+<br>
+<h4>Miten teen asian X?</h4>
+
+<p>teet sen näin ja näin ja näin jne jne jne jne.</p>
+</div>
+
+</body>
+</html>
